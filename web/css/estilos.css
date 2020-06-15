@@ -1,0 +1,104 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+
+
+}
+
+.navbar-brand h1{
+	color: #fff;
+	font-weight: bold;
+}
+
+header h1{
+	color:#000;
+  font-weight: bold;
+}
+header h1:hover{
+	color:white;
+}
+
+header h3{
+	color:#000;
+}
+
+.navbar {
+    min-height: 100px;
+
+    background-color: transparent !important;
+  }
+
+  .navbar-brand h1:hover{
+  color: #222222;
+  }
+
+  body {
+    background-image: url('../img.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+footer{
+  opacity: 0.6;
+	bottom: 0;
+	width: 100%;
+	position:relative;
+}
+
+
+
+.fa-twitter-square{
+
+font-size: 2em;
+text-decoration:none
+}
+.fa-instagram-square{
+    font-size: 2em;
+    text-decoration:none
+}
+.fa-facebook-square{
+
+font-size: 2em;
+text-decoration:none
+
+}
+.fa-linkedin{
+    text-decoration:none;
+    font-size: 2em;
+}
+
+a {
+    color:#222222;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+    color: coral;
+  }
+
+  a:active {
+    text-decoration: underline;
+  }
+  button text-center:hover{
+
+  color: coral;
+  }
+  .form-rounded {
+    border-radius: 1rem;
+    
+
+    }
+
+    .checkbox {
+
+    font-weight: bold;
+
+}
